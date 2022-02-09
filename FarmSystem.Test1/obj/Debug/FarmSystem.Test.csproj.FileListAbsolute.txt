@@ -1,0 +1,6 @@
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\bstarr\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
